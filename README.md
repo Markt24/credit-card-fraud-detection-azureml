@@ -49,8 +49,6 @@ The best model was selected based on:
 - F1 Score  
 - AUC / ROC Curve  
 
-These metrics ensure the model focuses on **reducing false negatives**, which is critical in fraud detection.
-
 ---
 
 <img width="1890" height="672" alt="Screenshot 2025-11-24 at 02 29 56" src="https://github.com/user-attachments/assets/519410d4-a9d4-490f-a8fd-21feb770f007" />
